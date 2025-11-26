@@ -10,6 +10,13 @@ NVIDIA
 
 AMD
 
+特朗普
+
+俄罗斯
+乌克兰
+欧洲
+俄乌战争
+
 谷歌
 google
 gemini
@@ -18,6 +25,7 @@ deepmind
 chatgpt
 openai
 sora
+codex
 
 claude
 Anthropic
@@ -30,6 +38,9 @@ ios
 ai
 !gai
 人工智能
+agi
+
+vibe coding
 
 机器人
 
